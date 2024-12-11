@@ -1,0 +1,15 @@
+// @import '../../public/home-bg.jpg';
+
+body {
+  text-transform: capitalize;
+  background-color: #ddd;
+}
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.btn{
+  margin-right: 30px;
+}
